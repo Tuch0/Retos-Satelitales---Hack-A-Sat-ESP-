@@ -27,7 +27,7 @@ Consolidar una base de conocimiento accesible en nuestro idioma sobre cibersegur
 
 Si te interesa este mundo, estoy creando contenido técnico en español sobre ciberseguridad aeroespacial en mi canal. Puedes seguirme para aprender más, ver demostraciones en vídeo, y profundizar en cada tema que documento aquí.
 
-YouTube: [Tuch0 - Ciberseguridad Aeroespacial](https://www.youtube.com/@Tuch0)
+YouTube: [Tuch0 - Ciberseguridad Aeroespacial](https://www.youtube.com/@Tuch0_)
 
 ---
 
