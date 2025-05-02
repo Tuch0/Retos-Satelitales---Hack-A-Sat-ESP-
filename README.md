@@ -48,5 +48,23 @@ Hack-A-Sat-ESP/
     └── enlaces_utiles.md
 ```
 
+Cada reto incluirá su propio directorio con:
+- Descripción clara del problema.
+- Explicación técnica de la solución.
+- Código utilizado.
+- Aprendizajes clave.
 
+🚀 ¿Por qué Hack-A-Sat?
+Hack-A-Sat es la competición líder a nivel mundial en ciberseguridad espacial, y representa una oportunidad única para aprender cómo se protege (y ataca) un satélite real. Participar, estudiar sus retos o simplemente entender cómo funcionan es un paso clave para cualquier persona que quiera dedicarse a este sector.
+
+🤝 Contribuye
+¿Hablas español y has resuelto retos de Hack-A-Sat? ¡Este repositorio está abierto a colaboraciones! Todo aporte que ayude a documentar, explicar o mejorar el contenido será bienvenido.
+
+🧭 Autor
+Este repositorio es mantenido por @Tuch0, investigador en ciberseguridad ofensiva especializado en sistemas aeroespaciales.
+
+Enlaces útiles
+- Página oficial de Hack-A-Sat
+- Repositorio Hack-A-Sat GitHub oficial
+- Wiki técnica (Hack-A-Sat)
 
