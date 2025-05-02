@@ -33,3 +33,20 @@ YouTube: [Tuch0 - Ciberseguridad Aeroespacial](https://www.youtube.com/@Tuch0)
 
 ## Estructura del repositorio
 
+```bash
+Hack-A-Sat-ESP/
+├── README.md
+├── Año_2023/
+│   ├── reto_01_nombre/
+│   │   ├── writeup.md
+│   │   └── exploit.py
+│   └── ...
+├── Año_2024/
+│   └── ...
+└── recursos/
+    ├── manuales/
+    └── enlaces_utiles.md
+```
+
+
+
