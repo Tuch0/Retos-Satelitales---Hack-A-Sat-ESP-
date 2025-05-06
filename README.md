@@ -1,4 +1,10 @@
+# Retos Satelitales - Hack-A-Sat (ESP)
 
+Este repositorio va a recopilar writeups en **castellano** de los retos más relevantes del Hack-A-Sat, una de las competiciones más avanzadas del mundo en ciberseguridad satelital.
+
+Aquí encontrarás explicaciones paso a paso de desafíos reales, desde reversing, radiofrecuencia y criptografía, hasta mecánica orbital, forense y más. Todo está documentado con el objetivo de que cualquier persona hispanohablante interesada en este campo pueda entenderlo y aprender.
+
+---
 
 ## ¿Qué contiene este repositorio?
 
